@@ -1,6 +1,6 @@
 # VenusIO-Mobile
 
-Venus IO Application .
+Venus IO Application Is a Cross Platfor Mobile Application In Flutter Framwork With Dart Programming Language.
 
 ## Getting Started
 
